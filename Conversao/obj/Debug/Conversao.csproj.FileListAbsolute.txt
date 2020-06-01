@@ -1,0 +1,6 @@
+C:\Users\vinicius.fernandes\source\repos\Conversao\Conversao\bin\Debug\Conversao.exe.config
+C:\Users\vinicius.fernandes\source\repos\Conversao\Conversao\bin\Debug\Conversao.exe
+C:\Users\vinicius.fernandes\source\repos\Conversao\Conversao\bin\Debug\Conversao.pdb
+C:\Users\vinicius.fernandes\source\repos\Conversao\Conversao\obj\Debug\Conversao.csprojAssemblyReference.cache
+C:\Users\vinicius.fernandes\source\repos\Conversao\Conversao\obj\Debug\Conversao.exe
+C:\Users\vinicius.fernandes\source\repos\Conversao\Conversao\obj\Debug\Conversao.pdb
